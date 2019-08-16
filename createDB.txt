@@ -1,0 +1,6 @@
+create database example;
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 934bc74639b5aac09c387b23dd5c82b1f50c7fed
